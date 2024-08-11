@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"9230f33d6cb0c8be","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"corrections"},
+		{"id":"c80084b7ec8888ec","x":-60,"y":60,"width":250,"height":60,"type":"text","text":"quasiconnectivity"},
+		{"id":"1518d7023fb5b555","x":-60,"y":140,"width":250,"height":60,"type":"text","text":"reduced lower inputs"},
+		{"id":"2b25bf6066e2eea5","x":-220,"y":-120,"width":250,"height":60,"type":"text","text":"moves"},
+		{"id":"8fdbc6697793ded6","x":-125,"y":220,"width":250,"height":60,"type":"text","text":"layoutNumConvert"},
+		{"id":"bbd1b1917d1cc02b","x":-125,"y":300,"width":250,"height":60,"type":"text","text":"opt. manual correction"},
+		{"id":"072634e3aa33e117","x":-125,"y":380,"width":250,"height":60,"type":"text","text":"layoutCommandConvert"},
+		{"id":"a1b1dfb1bdbee736","x":-220,"y":-200,"width":250,"height":60,"type":"text","text":"algorithm"},
+		{"id":"6f0c388a761f6f28","x":-255,"y":-280,"width":160,"height":60,"type":"text","text":"door object"},
+		{"id":"51757ef3f25f4b9d","x":-60,"y":460,"width":250,"height":60,"type":"text","text":"original"},
+		{"id":"001d9fb61469ca82","x":0,"y":540,"width":250,"height":60,"type":"text","text":"fill level"},
+		{"id":"672a2c7c191ccce7","x":0,"y":620,"width":250,"height":60,"type":"text","text":"commands"},
+		{"id":"fc5b7a54f68d0807","x":-125,"y":700,"width":250,"height":60,"type":"text","text":"commands to file"}
+	],
+	"edges":[]
+}

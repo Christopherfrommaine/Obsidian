@@ -1,0 +1,3 @@
+### How did you manage a situation or challenge that you didn’t expect? What did you learn from it?
+
+During the publishing ceremony for my book, I was asked what had been my favorite part of writing it. Being a frank 13-year-old, I responded "every time I thought I was done," and continued to list the drafts and the proofs and even the ceremony itself at which I thought I had finally finished my book. This turned out to be a prescient observation, as once I had published my book, I realized how big of an impact it would have. I had 
