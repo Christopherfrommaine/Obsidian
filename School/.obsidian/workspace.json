@@ -11,8 +11,12 @@
             "id": "56e342784ae24693",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Applications/MIT App/Essays/World I come from.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Applications/MIT App/Essays/World I come from.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Applications/MIT App/Essays/World I come from.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Applications/MIT App/Essays/World I come from.md"
+              }
             }
           }
         ]
@@ -139,5 +147,9 @@
     }
   },
   "active": "56e342784ae24693",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Applications/MIT App/Essays/Why I like field of study.md",
+    "Applications/MIT App/Essays/Collaboration.md",
+    "Applications/MIT App/Essays/Activities for fun.md"
+  ]
 }

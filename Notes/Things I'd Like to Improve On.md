@@ -1,10 +1,10 @@
 - Teeth
-	- [ ] Get toothbrush in the bathroom
+	- [x] Get toothbrush in the bathroom
 	- [ ] Find flossers
 	- [ ] Brush tonight
 - Diet
-	- [ ] Create spreadsheet
-	- [ ] Start tomorrow
+	- [x] Create spreadsheet
+	- [x] Start tomorrow
 - Sleep
 	- [x] Set wakeup alarm
 	- [x] Set bedtime alarm
@@ -12,7 +12,7 @@
 - Excersize
 	- [ ] Get gym membership
 	- [ ] Find gym app
-	- [ ] Go back to the gym
+	- [x] Go back to the gym
 	- [ ] 
 - Work Habits
 	- [ ] Find out how to publish a paper
