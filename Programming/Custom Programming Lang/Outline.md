@@ -36,3 +36,25 @@ for i in 1:3 {
 # iterator is deleted outside of the for loop.
 
 ```
+
+
+
+# New thoughts
+
+Functions should be more mathematical, and be described in terms of mathematical function type notation
+
+```Redlang
+
+int add(int a, int b, int c = 4) = a + b + c
+
+type(add)  # Function((int, int, opt(int)) -> int]
+
+```
+
+
+Tuple is a type with fixed length and a fixed type for each entry
+
+Args is a subtype of tuple which doesn't show with parens around them
+
+
+

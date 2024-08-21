@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1b03902f6b8b80f4",
+        "id": "4f40a9a45e1c83fb",
         "type": "tabs",
         "children": [
           {
-            "id": "43013193a81b9354",
+            "id": "f130cce991c7eee5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meeting Notes/Kickoff Meeting Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/Kickoff Meeting Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meeting Notes/Kickoff Meeting Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Meeting Notes/Kickoff Meeting Notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43013193a81b9354",
+  "active": "f130cce991c7eee5",
   "lastOpenFiles": [
     "Meeting Notes/Kickoff Meeting Notes.md",
     "Welcome.md",
