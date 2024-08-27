@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b03902f6b8b80f4",
+        "id": "4f40a9a45e1c83fb",
         "type": "tabs",
         "children": [
           {
-            "id": "43013193a81b9354",
+            "id": "f130cce991c7eee5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eed2f2f3c191a753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8-21-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/Kickoff Meeting Notes.md",
+                "file": "8-21-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meeting Notes/Kickoff Meeting Notes.md",
+                "file": "8-21-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meeting Notes/Kickoff Meeting Notes.md"
+                "file": "8-21-24.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43013193a81b9354",
+  "active": "eed2f2f3c191a753",
   "lastOpenFiles": [
     "Meeting Notes/Kickoff Meeting Notes.md",
+    "8-21-24.md",
     "Welcome.md",
     "Meeting Notes"
   ]
