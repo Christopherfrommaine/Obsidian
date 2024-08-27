@@ -11,8 +11,12 @@
             "id": "aa5e33ba37ac3c27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Gifts.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Notes/Gifts.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Notes/Gifts.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Notes/Gifts.md"
+          }
         }
       }
     ],
@@ -124,5 +132,12 @@
     }
   },
   "active": "aa5e33ba37ac3c27",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "School/Applications/MIT App/Essays/World I come from.md",
+    "School/Applications/MIT App/Essays/Why I like field of study.md",
+    "School/Applications/MIT App/Essays/Collaboration.md",
+    "School/Applications/MIT App/Essays/Challenging situation.md",
+    "School/Applications/MIT App/Essays/Activities for fun.md",
+    "Notes/Gifts.md"
+  ]
 }
