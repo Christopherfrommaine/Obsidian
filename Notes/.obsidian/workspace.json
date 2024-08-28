@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Todo List.md",
+                "file": "Gifts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Todo List.md",
+                "file": "Gifts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Todo List.md",
+                "file": "Gifts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Todo List.md"
+                "file": "Gifts.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c923a9a93feed72",
+  "active": "a7146e02b29df012",
   "lastOpenFiles": [
+    "Daily Todo List.md",
     "Untitled",
     "Gifts.md",
-    "Daily Todo List.md",
     "Random thoughts/Creative Computation Essay.md",
     "Things I'd Like to Improve On.md",
     "Random thoughts"
