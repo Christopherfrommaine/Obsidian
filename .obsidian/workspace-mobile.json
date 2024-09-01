@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Gifts.md",
+                "file": "School/Applications/MIT App/Notes on Application Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/Gifts.md",
+            "file": "School/Applications/MIT App/Notes on Application Process.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/Gifts.md",
+            "file": "School/Applications/MIT App/Notes on Application Process.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/Gifts.md"
+            "file": "School/Applications/MIT App/Notes on Application Process.md"
           }
         }
       }
@@ -133,11 +133,12 @@
   },
   "active": "aa5e33ba37ac3c27",
   "lastOpenFiles": [
+    "Notes/Gifts.md",
+    "WELP/8-21-24.md",
     "School/Applications/MIT App/Essays/World I come from.md",
     "School/Applications/MIT App/Essays/Why I like field of study.md",
     "School/Applications/MIT App/Essays/Collaboration.md",
     "School/Applications/MIT App/Essays/Challenging situation.md",
-    "School/Applications/MIT App/Essays/Activities for fun.md",
-    "Notes/Gifts.md"
+    "School/Applications/MIT App/Essays/Activities for fun.md"
   ]
 }
