@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Applications/MIT App/Essays/Activities for fun.md",
+                "file": "College/MIT App/Essays/Activities for fun.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Applications/MIT App/Essays/Why I like field of study.md",
+                "file": "College/MIT App/Essays/Why I like field of study.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Applications/MIT App/Notes on Application Process.md",
+                "file": "College/MIT App/Notes on Application Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b488ee10e0b3d741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Guidance/Mulligan Meeting Plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Applications/MIT App/Notes on Application Process.md",
+                "file": "College/Guidance/Mulligan Meeting Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Applications/MIT App/Notes on Application Process.md",
+                "file": "College/Guidance/Mulligan Meeting Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Applications/MIT App/Notes on Application Process.md"
+                "file": "College/Guidance/Mulligan Meeting Plan.md"
               }
             }
           }
@@ -171,20 +183,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd1680a486d9cf70",
+  "active": "b488ee10e0b3d741",
   "lastOpenFiles": [
-    "Applications/MIT App/Essays/Why I like field of study.md",
-    "Brag Sheet/Brag Sheet.md",
-    "Applications/MIT App/Essays/Activities for fun.md",
-    "Applications/MIT App/Notes on Application Process.md",
-    "Applications/MIT App/Portfolios/Music/Full Original.md",
-    "Applications/MIT App/Portfolios/Research",
-    "Applications/MIT App/Portfolios/Maker",
-    "Applications/MIT App/Portfolios/Music",
-    "Applications/MIT App/Portfolios",
-    "Applications/MIT App/Essays/World I come from.md",
-    "Applications/MIT App/Essays/Collaboration.md",
-    "Applications/MIT App/Essays/Challenging situation.md",
-    "Brag Sheet"
+    "Applications/Regeneron/Notes on Regeneron.md",
+    "College/Guidance/Mulligan Meeting Plan.md",
+    "College/Guidance",
+    "College/MIT App/Notes on Application Process.md",
+    "Applications/Regeneron",
+    "College",
+    "College/MIT App/Essays/Why I like field of study.md",
+    "College/Guidance/Brag Sheet.md",
+    "College/MIT App/Essays/Activities for fun.md",
+    "College/MIT App/Portfolios/Music/Full Original.md",
+    "College/MIT App/Portfolios/Research",
+    "College/MIT App/Portfolios/Maker",
+    "College/MIT App/Portfolios/Music",
+    "College/MIT App/Portfolios",
+    "College/MIT App/Essays/World I come from.md",
+    "College/MIT App/Essays/Collaboration.md",
+    "College/MIT App/Essays/Challenging situation.md",
+    "College/Guidance/Brag Sheet"
   ]
 }
