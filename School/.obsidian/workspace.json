@@ -4,59 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "832e66f424069d8c",
+        "id": "8a9dc0ccb9fba2f3",
         "type": "tabs",
         "children": [
           {
-            "id": "56e342784ae24693",
+            "id": "b911b32146ee610c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/MIT App/Essays/Activities for fun.md",
+                "file": "College/MIT App/Full Todo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0143d1c5924aa666",
+            "id": "7365cd869f5d8f38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/MIT App/Essays/Why I like field of study.md",
+                "file": "College/MIT App/Essays/Contributing to Community.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dd1680a486d9cf70",
+            "id": "94bbbb7c6622e2ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/MIT App/Notes on Application Process.md",
+                "file": "College/MIT App/Reccomendations.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b488ee10e0b3d741",
+            "id": "e5f19523996fbf00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Guidance/Mulligan Meeting Plan.md",
+                "file": "College/MIT App/Essays/Learning from Challenges.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Guidance/Mulligan Meeting Plan.md",
+                "file": "College/MIT App/Reccomendations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Guidance/Mulligan Meeting Plan.md",
+                "file": "College/MIT App/Reccomendations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Guidance/Mulligan Meeting Plan.md"
+                "file": "College/MIT App/Reccomendations.md"
               }
             }
           }
@@ -183,25 +183,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b488ee10e0b3d741",
+  "active": "94bbbb7c6622e2ba",
   "lastOpenFiles": [
-    "Applications/Regeneron/Notes on Regeneron.md",
-    "College/Guidance/Mulligan Meeting Plan.md",
-    "College/Guidance",
-    "College/MIT App/Notes on Application Process.md",
-    "Applications/Regeneron",
-    "College",
-    "College/MIT App/Essays/Why I like field of study.md",
     "College/Guidance/Brag Sheet.md",
-    "College/MIT App/Essays/Activities for fun.md",
+    "College/MIT App/Reccomendations.md",
+    "College/MIT App/Full Todo.md",
+    "College/MIT App/Portfolios/Music/Composition/Notes.md",
     "College/MIT App/Portfolios/Music/Full Original.md",
-    "College/MIT App/Portfolios/Research",
-    "College/MIT App/Portfolios/Maker",
-    "College/MIT App/Portfolios/Music",
-    "College/MIT App/Portfolios",
-    "College/MIT App/Essays/World I come from.md",
-    "College/MIT App/Essays/Collaboration.md",
-    "College/MIT App/Essays/Challenging situation.md",
-    "College/Guidance/Brag Sheet"
+    "College/Common App and Coalition App/Common App Essay/V2.0.md",
+    "College/Common App and Coalition App/Common App Essay/Original Draft from APLC.md",
+    "College/Common App and Coalition App/Common App Essay",
+    "College/MIT App/Notes on Application Process.md",
+    "College/MIT App/Essays/Contributing to Community.md",
+    "College/Common App and Coalition App",
+    "College/Untitled.md",
+    "College/MIT App/Essays/Educational Journey.md",
+    "College/MIT App/Essays/Other.md",
+    "College/MIT App/Essays/Learning from Challenges.md",
+    "College/MIT App/Essays/Activities for Fun.md",
+    "College/MIT App/Essays/Questions.md",
+    "College/MIT App/Essays/Old/Challenging situation.md",
+    "College/MIT App/Essays/Old/Collaboration.md",
+    "College/MIT App/Essays/Old/Activities for fun.md",
+    "College/MIT App/Essays/Educational Journey",
+    "College/MIT App/Essays/Old",
+    "College/MIT App/Portfolios/Music/Composition/Media/Andante Cantabile.pdf",
+    "College/MIT App/Portfolios/Music/Composition/Media/Andante Cantabile.pdf",
+    "College/MIT App/Portfolios/Music/Composition/Media/Fantasia in G Minor.pdf",
+    "College/MIT App/Portfolios/Music/Composition/Media/Lewiston Song.pdf",
+    "College/Guidance/Mulligan Meeting Plan.md",
+    "College/MIT App/Portfolios/Music/Composition/Media",
+    "College/MIT App/Portfolios/Music/Composition",
+    "College/MIT App/Essays/Old/Why I like field of study.md",
+    "College/MIT App/Essays/Old/World I come from.md",
+    "Applications/Regeneron/Notes on Regeneron.md"
   ]
 }
