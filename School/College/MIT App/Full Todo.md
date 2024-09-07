@@ -1,4 +1,16 @@
+
+# Ordered
+- [ ] Emails for Recs
+- [ ] Brag Sheet
+- [ ] 
+
+# Full
 - [ ] Recommenders
+	- [ ] Mulligan
+		- [ ] Ask Hale to send info to Mulligan to compile
+		- [ ] Ask Mason to send info to Mulligan to compile
+		- [ ] Ask Robin to send info to Mulligan to compile?
+		- [ ] Ask Melvin to send info to Mulligan to compile?
 	- [x] Ask Inman for a Rec
 		- [ ] Respond to Email
 	- [x] Ask Mrs. G for a Rec
@@ -21,6 +33,7 @@
 			- [x] Ask Bailey for a Rec
 			- [ ] 
 		- [ ] Organ Portfolio
+			- [ ] Record Video
 			- [ ] 
 	- [ ] Research Portfolio
 		- [ ] Ask Steven Wolfram, give brag sheet, resume, etc.

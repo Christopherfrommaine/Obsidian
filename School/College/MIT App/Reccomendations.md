@@ -12,28 +12,25 @@ Please send me **via A SEPARATE email** (don't just reply to this one) answers
   
 NOTE: **read through this whole email right away, but know that you do not have to respond immediately.** It all depends on your deadlines. If you are still in the process of figuring things out, that's ok. You can take a beat before you send your answers. 
 
-1. What is your earliest deadline?  I realize this might be a moving target.  _Just keep me updated._ If you don't know yet, that's ok.  You can answer the following few questions and then let me know when you know.  I tend to write the letters in the order of need.  **Do not count on Naviance or or a college list spreadsheet to keep me informed of your changing deadlines**. The only way I will know for sure if your first deadline goes from Dec. 1 to Nov. 1 is if you email me or stop by.
-	1. November 1st, for MIT's Early Action
-  
-2. Tell me what you believe are your academic/learning/classroom strengths.  I tend to focus on your academic and classroom performance as that's how I know you best, and the application gives you other opportunities to share your extracurriculars. If there is anything you want me to highlight especially, say so!
-	1. 
-  
-3. Describe yourself in three words (I often have to do that on the forms, and it's hard.  I figure you can help with some of the work). Your school counselor asks for the same thing--three words to describe you. You can send the same ones, but you'll really be on fire if you send me ones that feel especially relevant to who you are as a student.
-	1. [[Brag Sheet]]
-  
-4. What did you most enjoy about your class with me?  The more specific you are, the better.  Was there an assignment or activity that especially resonated with you or helped you/your personality shine through?
-	1. 
-  
-5. What were your favorite and/or strongest writing assignments? Or which assignments helped you grow the most?
-	1. 
-  
+- [x] What is your earliest deadline?  I realize this might be a moving target.  _Just keep me updated._ If you don't know yet, that's ok.  You can answer the following few questions and then let me know when you know.  I tend to write the letters in the order of need.  **Do not count on Naviance or or a college list spreadsheet to keep me informed of your changing deadlines**. The only way I will know for sure if your first deadline goes from Dec. 1 to Nov. 1 is if you email me or stop by.
+	- November 1st, for MIT's Early Action
 
-6.  Anything else you think I should know or think about before I write? It's easy to blow off this question, but think about it for a few minutes at least. The more you give me, the better your letter will be.
-	1. 
+- [ ] Tell me what you believe are your academic/learning/classroom strengths.  I tend to focus on your academic and classroom performance as that's how I know you best, and the application gives you other opportunities to share your extracurriculars. If there is anything you want me to highlight especially, say so!
+	- 
 
-  
+- [ ] Describe yourself in three words (I often have to do that on the forms, and it's hard.  I figure you can help with some of the work). Your school counselor asks for the same thing--three words to describe you. You can send the same ones, but you'll really be on fire if you send me ones that feel especially relevant to who you are as a student.
+	- [[Brag Sheet]]
 
-7) Be sure to add me as a recommender via Naviance. I have already been notified that a few of you have done so--thanks!  
+- [ ] What did you most enjoy about your class with me?  The more specific you are, the better.  Was there an assignment or activity that especially resonated with you or helped you/your personality shine through?
+	- 
+
+ - [ ] What were your favorite and/or strongest writing assignments? Or which assignments helped you grow the most?
+	 - 
+
+- [ ] Anything else you think I should know or think about before I write? It's easy to blow off this question, but think about it for a few minutes at least. The more you give me, the better your letter will be.
+	- 
+
+- [x] Be sure to add me as a recommender via Naviance. I have already been notified that a few of you have done so--thanks!  
   
 I think that covers it.  If you want to visit in person, that's great (bring chocolate) (just kidding) (mostly), but I'm happy to tackle this stuff via email--then I have a written record when I'm working on your letters at odd hours (like 5AM).  
   

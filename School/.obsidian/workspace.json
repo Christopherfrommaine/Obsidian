@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/MIT App/Reccomendations.md",
+                "file": "Applications/Regeneron/Notes on Regeneron.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/MIT App/Reccomendations.md",
+                "file": "Applications/Regeneron/Notes on Regeneron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/MIT App/Reccomendations.md",
+                "file": "Applications/Regeneron/Notes on Regeneron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/MIT App/Reccomendations.md"
+                "file": "Applications/Regeneron/Notes on Regeneron.md"
               }
             }
           }
@@ -185,22 +185,23 @@
   },
   "active": "94bbbb7c6622e2ba",
   "lastOpenFiles": [
-    "College/Guidance/Brag Sheet.md",
-    "College/MIT App/Reccomendations.md",
     "College/MIT App/Full Todo.md",
+    "College/MIT App/Essays/Learning from Challenges.md",
+    "College/Guidance/Brag Sheet.md",
+    "College/MIT App/Essays/Contributing to Community.md",
+    "College/MIT App/Essays/Activities for Fun.md",
+    "College/Guidance/Mulligan Meeting Plan.md",
+    "College/MIT App/Reccomendations.md",
     "College/MIT App/Portfolios/Music/Composition/Notes.md",
     "College/MIT App/Portfolios/Music/Full Original.md",
     "College/Common App and Coalition App/Common App Essay/V2.0.md",
     "College/Common App and Coalition App/Common App Essay/Original Draft from APLC.md",
     "College/Common App and Coalition App/Common App Essay",
     "College/MIT App/Notes on Application Process.md",
-    "College/MIT App/Essays/Contributing to Community.md",
     "College/Common App and Coalition App",
     "College/Untitled.md",
     "College/MIT App/Essays/Educational Journey.md",
     "College/MIT App/Essays/Other.md",
-    "College/MIT App/Essays/Learning from Challenges.md",
-    "College/MIT App/Essays/Activities for Fun.md",
     "College/MIT App/Essays/Questions.md",
     "College/MIT App/Essays/Old/Challenging situation.md",
     "College/MIT App/Essays/Old/Collaboration.md",
@@ -211,7 +212,6 @@
     "College/MIT App/Portfolios/Music/Composition/Media/Andante Cantabile.pdf",
     "College/MIT App/Portfolios/Music/Composition/Media/Fantasia in G Minor.pdf",
     "College/MIT App/Portfolios/Music/Composition/Media/Lewiston Song.pdf",
-    "College/Guidance/Mulligan Meeting Plan.md",
     "College/MIT App/Portfolios/Music/Composition/Media",
     "College/MIT App/Portfolios/Music/Composition",
     "College/MIT App/Essays/Old/Why I like field of study.md",
