@@ -11,12 +11,8 @@
             "id": "aa5e33ba37ac3c27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Applications/MIT App/Notes on Application Process.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -25,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Email to Dugan.md",
+                "file": "Gym/9-8-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/Email to Dugan.md",
+            "file": "Gym/9-8-24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/Email to Dugan.md",
+            "file": "Gym/9-8-24.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/Email to Dugan.md"
+            "file": "Gym/9-8-24.md"
           }
         }
       }
@@ -146,8 +142,10 @@
   },
   "active": "fe0b6d68f38716a9",
   "lastOpenFiles": [
-    "Notes/Random thoughts/Welp torus.md",
+    "School/Applications/Regeneron/Notes on Regeneron.md",
+    "Gym/9-8-24.md",
     "Notes/Email to Dugan.md",
+    "Notes/Random thoughts/Welp torus.md",
     "School/Applications/MIT App/Notes on Application Process.md",
     "Notes/Gifts.md",
     "WELP/8-21-24.md",
