@@ -17,26 +17,17 @@ This program contains:
 - Forms (3)
 - References (up to 5)
 - Media (up to 3)
+## Application Preview
 
-- ## Application Preview
-    
 - ### Forms
-    
     - #### Biographical information
-        
         1. Date of Birth
-            
         2. Are you submitting a first-year or a transfer application?
-            
-            * This question may have follow-up questions.
         3. Application Reference Number
-            
-            Your unique nine-digit application reference number can be found on the "Getting Started" page of your MIT Application at apply.mitadmissions.org/apply. Your reference number is also listed at the top of your applicant status page that appears after you submit your MIT Application.
-            
+	        Your unique nine-digit application reference number can be found on the "Getting Started" page of your MIT Application at apply.mitadmissions.org/apply. Your reference number is also listed at the top of your applicant status page that appears after you submit your MIT Application.
+		
     - #### Music/Theater Arts portfolio
-        
         1. Area
-            
             * This question may have follow-up questions.
     - #### Portfolio acknowledgement
         

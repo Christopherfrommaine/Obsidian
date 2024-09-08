@@ -1,0 +1,44 @@
+
+# Ordered
+- [ ] Emails for Recs
+- [ ] Brag Sheet
+- [ ] 
+
+# Full
+- [ ] Recommenders
+	- [ ] Mulligan
+		- [ ] Ask Hale to send info to Mulligan to compile
+		- [ ] Ask Mason to send info to Mulligan to compile
+		- [ ] Ask Robin to send info to Mulligan to compile?
+		- [ ] Ask Melvin to send info to Mulligan to compile?
+	- [x] Ask Inman for a Rec
+		- [ ] Respond to Email
+	- [x] Ask Mrs. G for a Rec
+	- [ ] Ask Robin for a Third Rec (Ask about Brian Greene?)
+	- [x] Put recommenders in portal
+		- [x] Mrs. Mulligan
+		- [x] Mrs. Inman
+		- [x] Mrs. G
+		- [ ] Robin? / Brian Greene?
+	- [ ] Put Portfolio Recommenders in Slideroom
+		- [x] Bailey
+		- [ ] Wolfram?
+- [ ] Essays
+	- [ ] 
+- [ ] Portfolios
+	- [ ] Music Portfolio
+		- [x] Write Info for Music Resume
+		- [ ] Revise Music Resume from Mama #mama
+		- [ ] Composing Portfolio
+			- [x] Ask Bailey for a Rec
+			- [ ] 
+		- [ ] Organ Portfolio
+			- [ ] Record Video
+			- [ ] 
+	- [ ] Research Portfolio
+		- [ ] Ask Steven Wolfram, give brag sheet, resume, etc.
+			- [ ] Physics and math, going into computational physics or QC, 
+	- [ ] Maker Portfolio
+		- [ ] 
+- [ ] Bio Information
+- [ ] Submit
