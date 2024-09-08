@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gifts.md",
+                "file": "Things I'd Like to Improve On.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gifts.md",
+                "file": "Things I'd Like to Improve On.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gifts.md",
+                "file": "Things I'd Like to Improve On.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gifts.md"
+                "file": "Things I'd Like to Improve On.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "a7146e02b29df012",
   "lastOpenFiles": [
+    "Random thoughts/Creative Computation Essay.md",
+    "Gifts.md",
     "Daily Todo List.md",
     "Untitled",
-    "Gifts.md",
-    "Random thoughts/Creative Computation Essay.md",
     "Things I'd Like to Improve On.md",
     "Random thoughts"
   ]
