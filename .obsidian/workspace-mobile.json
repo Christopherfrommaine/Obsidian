@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe0b6d68f38716a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Email to Dugan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "School/Applications/MIT App/Notes on Application Process.md",
+            "file": "Notes/Email to Dugan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "School/Applications/MIT App/Notes on Application Process.md",
+            "file": "Notes/Email to Dugan.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "School/Applications/MIT App/Notes on Application Process.md"
+            "file": "Notes/Email to Dugan.md"
           }
         }
       }
@@ -131,8 +144,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa5e33ba37ac3c27",
+  "active": "fe0b6d68f38716a9",
   "lastOpenFiles": [
+    "Notes/Random thoughts/Welp torus.md",
+    "Notes/Email to Dugan.md",
+    "School/Applications/MIT App/Notes on Application Process.md",
     "Notes/Gifts.md",
     "WELP/8-21-24.md",
     "School/Applications/MIT App/Essays/World I come from.md",
