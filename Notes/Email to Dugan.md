@@ -1,1 +1,0 @@
-Hello! I am applying for the Regeneron scholarship this fall with my WSRP project. Would you be willing to be my project recommender and answer some questions as my research mentor? The deadline is November 7. I will send more information about it, and thank you very, very much!

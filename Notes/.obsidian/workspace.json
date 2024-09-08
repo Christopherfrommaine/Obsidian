@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random thoughts/Untitled.md",
+                "file": "Emails.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random thoughts/Untitled.md",
+                "file": "Emails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random thoughts/Untitled.md",
+                "file": "Emails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random thoughts/Untitled.md"
+                "file": "Emails.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "a7146e02b29df012",
   "lastOpenFiles": [
-    "Random thoughts/Welp torus.md",
-    "Email to Dugan.md",
-    "Random thoughts/Creative Computation Essay.md",
     "Random thoughts/Untitled.md",
+    "Emails.md",
+    "Random thoughts/Welp torus.md",
+    "Random thoughts/Creative Computation Essay.md",
     "Things I'd Like to Improve On.md",
     "Gifts.md",
     "Daily Todo List.md",
