@@ -1,5 +1,4 @@
 # Inman Email
-
 ### Original Email
 Hi!
 If you are receiving this email, you have asked me at some point in the past five months to write you a college letter of recommendation.
