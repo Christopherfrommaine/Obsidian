@@ -18,8 +18,21 @@
               "icon": "lucide-file",
               "title": "Release Notes 1.7.4"
             }
+          },
+          {
+            "id": "fb89acdf4007ffe2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,6 +169,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cb12f66b1d76038",
+  "active": "fb89acdf4007ffe2",
   "lastOpenFiles": []
 }
