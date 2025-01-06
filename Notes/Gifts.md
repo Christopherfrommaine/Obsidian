@@ -1,12 +1,16 @@
-LHC Decay Poster
-Ifixit kit
-Mint plant
-New Laptop
-- External hard drive?
-Headphones
-Split mechanical keyboard
-Soldering Iron
-Lead-free solder
+
+
+## Christmas
+#### Good
+- [x] New Laptop
+- [ ] Mint plant
+- [ ] 
+
+#### Possible
+- [ ] Ifixit kit
+- [ ] Headphones (to-do research)
 
 
 
+## Birthday
+- [ ] Good Backpack (maybe )
