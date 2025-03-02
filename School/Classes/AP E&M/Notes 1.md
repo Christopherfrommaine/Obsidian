@@ -129,4 +129,114 @@ Voltage is relative.
 ![[Pasted image 20250301120405.png]]
 
 # Circuits
-TESTING
+## Current
+Current is a measure of the "flow". I.e. the amount of electrons moving through a wire.
+If you take the amount of charge that has moved through divided by the amount of time passed, you get:
+$$I = \frac{\Delta Q}{\Delta t} $$
+Alternatively, you can define it in terms of the area of the wire A, the velocity of the electrons v, the number of electrons n, and the charge of each electron:
+$$I = n q A v$$
+
+## Resistance
+Resistance measures how much of an effect voltage has on current. If you increase the resistance, then you need a greater voltage (potential difference) to achieve the same flow (current). Thus, we get the law:
+
+### Ohm's Law
+$$V = I R$$
+
+### Parallel vs Series
+If you have two resistors in parallel, they add together. If you have two in series, then you're effectively adding more ways for electrons to path through, so resistance decreases.
+
+$$ R \propto \text{length of the net resistor}$$
+$$R \propto 1 / \text{area of the net resistor}$$
+
+### POWAH
+
+Ditto for mechanics, just energy over time.
+$$P = \frac{dU}{dt}$$
+
+But we can also write it as current times voltage:
+$$P = \frac{dU}{dt} = \frac{dU}{dQ} \frac{dQ}{dt} = V I$$
+
+Replacing with Ohm's law:
+$$P = V I = V \frac{V}{R} = \frac{V^2}{R}$$
+## Complicated Circuits
+If you need to find the current flowing through two resistors, it may be tricky. Recall:
+Charge is conserved (I_1 + I_2 = I_total)
+Energy is conserved (delta V_1 = delta V_2)
+
+However, you may also need to use these equations:
+#### Kirchhoff Equations
+##### Junction Rule
+When two wires meet, total charge is conserved. If I_1 and I_2 are inputs, and I_3 and I_4 are outputs,
+$$I_1 + I_2 = I_3 + I_4$$
+
+##### Loop Rule
+If you start and end in the same place, you should have no change in potential energy. In other words, the voltage from a battery minus the total voltage drop from resistance is zero:
+$$V - I R = 0$$
+
+## Capacitors
+
+$$C = \frac{Q}{V}$$
+where V is the voltage across the capacitor.
+
+Given a circuit with a battery, capacitor, and some resistance:
+$$V - \frac{Q}{C} - I R = 0$$
+$$V - \frac{Q}{C} - \frac{dQ}{dt} R = 0$$
+This is a differential equation, which can be solved.
+$$Q(t) = V C (1 - e^\frac{-1}{RC})$$
+
+### Parallel vs Series
+For capacitors, it works the OPPOSITE way!
+
+$$ C \propto 1 / \text{seperation of the net capacitor}$$
+$$C \propto \text{area of the net capacitor}$$
+
+so in series, they add, and in parallel, the value is the reciprocal of the sum of their reciprocals.
+
+### Energy of a Capacitor
+$$U = \frac{1}{2} C V^2$$
+## AC Circuits
+
+### Voltage
+Instead of real voltage over time (which would always be zero), we square it, then sum, then take the sqrt. Called the Root Mean Squared (RMS) voltage.
+
+### Capacitors
+In very low frequency, they act like DC.
+In higher frequency, where they don't have enough time to charge up,
+$$V_0 = I_0 \frac{1}{\omega C}$$
+where omega is the frequency, V_0 is the voltage of the capacitor, etc.
+We call this value Reactance:
+$$X = \frac{1}{\omega C}$$
+### Impedance
+$$Z = \sqrt{X^2 + R^2}$$
+$$V_\text{rms} = I_\text{rms} Z $$
+# Magnetism
+A magnetic field describes the force on a north pole.
+
+Magnetic field, where B is a small section of the magnetic field, and dl points along the wire, and r is from that piece of the wire to B:
+$$d\overrightarrow{B} = \frac{\mu_0}{4 \pi} \frac{I d\overrightarrow{l} \times \hat{r}}{r^2}$$
+
+### Right Hand Rules
+Index is current flow (along the wire), middle is towards the position on the field, thumb is B.
+
+Also,
+Thumb is current flow, fingers will twist around along magnetic field lines.
+
+## Magnetic Force
+$$\overrightarrow{F}_M = q \overrightarrow{v} \times \overrightarrow{B}$$
+
+Because of this, charges move in a helical path around a constant magnetic field.
+
+
+### Flux
+The magnetic flux for any closed surface is 0
+
+$$ V = -\frac{d \Phi_B}{dt}$$
+for a looped path.
+
+
+### Todo: magnetism needs more understanding
+
+## Overview
+![[Pasted image 20250301140757.png]]
+
+# Electromagnetism
