@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/AP E&M/Notes 1.md",
+                "file": "Applications/Mass Scholarship Applications/General Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes 1"
+              "title": "General Notes"
             }
           }
         ]
@@ -165,8 +165,10 @@
   },
   "active": "dde29f272346e7a7",
   "lastOpenFiles": [
-    "Classes/AP E&M/2012 Practice Test.md",
     "Classes/AP E&M/Notes 1.md",
+    "Applications/Mass Scholarship Applications/General Notes.md",
+    "Applications/Mass Scholarship Applications",
+    "Classes/AP E&M/2012 Practice Test.md",
     "Pasted image 20250301140757.png",
     "Pasted image 20250301120405.png",
     "test.md",
@@ -200,8 +202,6 @@
     "College/MIT App/Essays/Old",
     "College/MIT App/Portfolios/Music/Composition/Media/Andante Cantabile.pdf",
     "College/MIT App/Portfolios/Music/Composition/Media/Andante Cantabile.pdf",
-    "College/MIT App/Portfolios/Music/Composition/Media/Fantasia in G Minor.pdf",
-    "College/MIT App/Essays/Old/Why I like field of study.md",
-    "College/MIT App/Essays/Old/World I come from.md"
+    "College/MIT App/Essays/Old/Why I like field of study.md"
   ]
 }

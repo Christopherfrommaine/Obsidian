@@ -1,0 +1,14 @@
+- [x] Search MaineCF for [Cumberland County]([https://www.mainecf.org/find-a-scholarship/available-scholarships/cumberland-county-scholarships/](https://www.mainecf.org/find-a-scholarship/available-scholarships/cumberland-county-scholarships/))
+- [x] Search MaineCF for [Androscoggin County](https://www.mainecf.org/find-a-scholarship/available-scholarships/androscoggin-county-scholarships/)
+	-  *Annette M. Brown Fund* looks good, but has financial need requirements (Federal Expected Family Contribution of $5,000 or less)
+	- [ ] Sign into FAFSA to see EFC (Replaced with SAI)
+		- In Eligibility Overview tab
+- [x] Search MaineCF for Graduate Scholarships
+- [x] Search MaineCF with Eligibility Quiz
+- [x] Search FAME for all Maine Scholarships
+	- [Stephen Phillips](https://www.famemaine.com/scholarships/stephen-phillips-memorial-scholarship/) if I get a part time job and SAI < 13,000
+	- For 1,000 - 15,000, RENEWABLE 8 TIMES!
+- [x] Search Naviance Scholarships
+- [x] Search Naviance National Scholarships
+	- Whole bunch of sweepstakes and junk
+- [ ] 
