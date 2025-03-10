@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code20Search.md",
+                "file": "splr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Code20Search"
+              "title": "splr"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "60be802fda0a73b5",
   "lastOpenFiles": [
-    "Speed Calculation.md",
     "Code20Search.md",
+    "Speed Calculation.md",
+    "splr.md",
     "Custom Programming Lang/Outline.md",
     "Piston Door Algoritm/My Solutions/Systematic System.md",
     "Piston Door Algoritm/My Solutions/Organized Manual System.md",

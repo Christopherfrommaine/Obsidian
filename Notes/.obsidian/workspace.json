@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b8f3a575b121bb5d",
+        "id": "694983370ebe1398",
         "type": "tabs",
         "children": [
           {
-            "id": "78caa8258fb5c936",
+            "id": "94b482555d246cff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planning/GGT/Order.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Order"
-            }
-          },
-          {
-            "id": "731e5534e5745143",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,20 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "731e5534e5745143",
+  "active": "94b482555d246cff",
   "lastOpenFiles": [
+    "Emails.md",
+    "Daily Todo List.md",
     "Planning/GGT/Order.md",
     "Planning/GGT",
     "Planning",
     "Random thoughts/Poems/On High.md",
     "Random thoughts/Poems/Stars or The sun.md",
     "Gifts.md",
-    "Emails.md",
     "Random thoughts/Untitled.md",
     "Random thoughts/Welp torus.md",
     "Random thoughts/Creative Computation Essay.md",
     "Things I'd Like to Improve On.md",
-    "Daily Todo List.md",
     "Random thoughts"
   ]
 }
