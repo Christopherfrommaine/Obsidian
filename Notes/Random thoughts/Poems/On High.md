@@ -8,15 +8,30 @@ to see how far you grow,
 as whence great height itself shall fall,
 only He above it knows.
 
-Horizons, hazed and dark,
+Deep horizons, hazed and dark,
 their want: our perfect aptitude,
-endless distance yet so stark
-opaque from this mere altitude,
+boundless distance yet so stark
+opaque from this mere altitude.
 
-endlessly sought after,
+Sight at last sought after,
 from longest ages past,
 by highest tottering tower,
 yet closed not in our grasp.
+
+What view marks end
+to such a climb?
+Where lies the bend
+in length of time?
+
+A life of highest search
+through empty violet sky
+to find that truth's source
+is He that is on high.
+
+
+
+
+
 
 
 
