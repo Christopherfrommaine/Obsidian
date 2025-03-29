@@ -8,7 +8,8 @@ colorlinks: true
 ---
 
 # Christopher Gilbert
-###### [christopherfrommaine@gmail.com](mailto:christopherfrommaine@gmail.com)
+
+###### [christopherfrommaine@gmail.com](mailto:christopherfrommaine@gmail.com) | +1-207-409-6444 | Cumberland, ME
 
 High school senior interested in physics, math, programming, and music. 
 Pursuing Quantum Information Science and Computational Physics at MIT class of 2029.
