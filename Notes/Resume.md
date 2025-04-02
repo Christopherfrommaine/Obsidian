@@ -6,7 +6,6 @@ numbersections: false
 pagestyle: empty
 colorlinks: true
 ---
-
 # Christopher Gilbert
 
 ###### [christopherfrommaine@gmail.com](mailto:christopherfrommaine@gmail.com) | +1-207-409-6444 | Cumberland, ME

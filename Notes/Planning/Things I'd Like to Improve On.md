@@ -9,7 +9,7 @@
 	- [x] Set wakeup alarm
 	- [x] Set bedtime alarm
 	- [ ] 
-- Excersize
+- Excersise
 	- [ ] Get gym membership
 	- [ ] Find gym app
 	- [x] Go back to the gym

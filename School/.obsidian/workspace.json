@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b2f5d7d56bda2d60",
+        "id": "0b553b4f933d250a",
         "type": "tabs",
         "children": [
           {
-            "id": "9723509f1632e2c1",
+            "id": "c0decb8cc2ec6eef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/AP E&M/Notes 1.md",
+                "file": "Classes/AP E&M/Notes/Notes 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -163,13 +163,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9723509f1632e2c1",
+  "active": "c0decb8cc2ec6eef",
   "lastOpenFiles": [
-    "Classes/AP E&M/2012 Practice Test.md",
-    "Pasted image 20250301140757.png",
-    "Pasted image 20250301120405.png",
+    "Classes/AP E&M/Practice/2012 Practice Test.md",
+    "Classes/AP E&M/Practice",
+    "Classes/AP E&M/Notes/Notes 1.md",
+    "Classes/AP E&M/Notes",
+    "Classes/Media",
+    "Classes/Media/Pasted image 20250301120405.png",
+    "Classes/Media/Pasted image 20250301140757.png",
     "Applications/Mass Scholarship Applications/General Notes.md",
-    "Classes/AP E&M/Notes 1.md",
     "Applications/Mass Scholarship Applications",
     "test.md",
     "Classes/AP E&M",
@@ -198,9 +201,6 @@
     "College/MIT App/Essays/Old/Challenging situation.md",
     "College/MIT App/Essays/Old/Collaboration.md",
     "College/MIT App/Essays/Old/Activities for fun.md",
-    "College/MIT App/Essays/Educational Journey",
-    "College/MIT App/Essays/Old",
-    "College/MIT App/Portfolios/Music/Composition/Media/Andante Cantabile.pdf",
-    "College/MIT App/Portfolios/Music/Composition/Media/Andante Cantabile.pdf"
+    "College/MIT App/Essays/Educational Journey"
   ]
 }

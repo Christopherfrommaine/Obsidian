@@ -1,6 +1,0 @@
-- [x] Paleo Breakfast
-- [x] Email Scott
-- [ ] Open Brag Sheet
-- [ ] Email Mrs. G
-- [ ] Email Mrs. Bailey
-- [ ] 
