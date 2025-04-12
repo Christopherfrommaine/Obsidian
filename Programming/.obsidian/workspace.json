@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "splr.md",
+                "file": "code20/Notes on Wolfram Paper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "splr"
+              "title": "Notes on Wolfram Paper"
             }
           }
         ]
@@ -165,9 +165,14 @@
   },
   "active": "60be802fda0a73b5",
   "lastOpenFiles": [
-    "Code20Search.md",
-    "Speed Calculation.md",
+    "20250409_112512.jpg",
+    "Pasted image 20250408141358.png",
+    "code20/computation-theory-cellular-automata.pdf",
+    "code20/Notes on Wolfram Paper.md",
+    "code20/Code20Search.md",
     "splr.md",
+    "code20",
+    "Speed Calculation.md",
     "Custom Programming Lang/Outline.md",
     "Piston Door Algoritm/My Solutions/Systematic System.md",
     "Piston Door Algoritm/My Solutions/Organized Manual System.md",

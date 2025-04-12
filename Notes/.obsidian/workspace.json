@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MIT/Meeting Notes/STARS Block Party Notes.md",
+                "file": "Resume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STARS Block Party Notes"
+              "title": "Resume"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bf9512aacf79495b",
@@ -168,10 +167,10 @@
   },
   "active": "e78e5e78a2e3d7a9",
   "lastOpenFiles": [
+    "MIT/Meeting Notes/STARS Block Party Notes.md",
     "MIT/Meeting Notes/Online Meeting Notes.md",
     "MIT/Meeting Notes/MIT Meeting Person.md",
     "MIT/General.md",
-    "MIT/Meeting Notes/STARS Block Party Notes.md",
     "elo.mit.edu.md",
     "MIT/Meeting Notes",
     "Emails.md",
