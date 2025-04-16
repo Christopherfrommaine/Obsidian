@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MIT/CPW/Schedule/Bus Times.md",
+                "file": "Resume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bus Times"
-            }
-          },
-          {
-            "id": "b18de759f755949a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MIT/CPW/Packing List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Packing List"
+              "title": "Resume"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,17 +165,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b18de759f755949a",
+  "active": "6c923a9a93feed72",
   "lastOpenFiles": [
-    "MIT/CPW/Schedule/CPW Schedule 1.md",
+    "Untitled.md",
+    "christopherfrommaine.netlify.app.md",
+    "Resume.md",
+    "MIT/CPW/Schedule/Bus Times.md",
     "MIT/CPW/Packing List.md",
+    "MIT/CPW/Schedule/CPW Schedule 1.md",
     "MIT/Classes.md",
     "MIT/Dorms.md",
     "MIT/Geography.md",
     "MIT/General.md",
     "MIT/Meeting Notes/STARS Block Party Notes.md",
     "elo.mit.edu.md",
-    "MIT/CPW/Schedule/Bus Times.md",
     "MIT/CPW/Schedule/Schedule.md",
     "MIT/CPW/Schedule/Mass Times.md",
     "MIT/CPW/Schedule",
@@ -200,7 +188,6 @@
     "MIT/Meeting Notes/Online Meeting Notes.md",
     "MIT/Meeting Notes/MIT Meeting Person.md",
     "MIT/CPW Notes.md",
-    "Resume.md",
     "MIT/Meeting Notes",
     "Emails.md",
     "Gifts.md",
@@ -211,10 +198,8 @@
     "Random thoughts/Untitled.md",
     "MIT",
     "test.md",
-    "Random thoughts/Poems/On High.md",
     "Planning/GGT",
     "Planning",
-    "Random thoughts/Poems/Stars or The sun.md",
     "Random thoughts"
   ]
 }
