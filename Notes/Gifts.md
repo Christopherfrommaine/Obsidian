@@ -1,3 +1,6 @@
+Physical Metronome
+Clock for lakehouse room
+Drip coffee maker
 
 
 ## Christmas

@@ -1,0 +1,6 @@
+  - [ ] Ice cream outside
+  - [x] pencils
+  - [ ] 
+  - [ ] spreadsheet copy
+  - [ ] meal prep
+  - [ ] 
