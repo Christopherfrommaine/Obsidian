@@ -81,6 +81,12 @@ This is isomorphic to a DeBruijn Graph, by replacing all $(a_i, a_i+1)$ with $(a
 
 Thus, a traversable list of nodes (i.e. a path) through $g$ represents an initial condition for the cellular automaton denoted $A^0$, and the list of arcs taken represent the application of a step $A^1$.
 
+# After Programming 1 and 2
+
+Traversable list of nodes is a word
+
+# Images
+
 ![[20250409_112512.jpg]]
 
 

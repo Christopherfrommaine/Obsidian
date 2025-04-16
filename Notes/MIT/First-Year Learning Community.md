@@ -1,0 +1,7 @@
+- Concourse
+	- 50 students
+- Design+
+	- hands on?
+- Terrascope
+	- not for me? Env sci possibly
+- Expirimental Study Group (ESG)w

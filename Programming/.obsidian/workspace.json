@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Notes on Wolfram Paper"
             }
+          },
+          {
+            "id": "d1de0962c4fd5167",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "code20/computation-theory-cellular-automata.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "computation-theory-cellular-automata"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,12 +176,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60be802fda0a73b5",
+  "active": "d1de0962c4fd5167",
   "lastOpenFiles": [
-    "20250409_112512.jpg",
-    "Pasted image 20250408141358.png",
-    "code20/computation-theory-cellular-automata.pdf",
     "code20/Notes on Wolfram Paper.md",
+    "code20/computation-theory-cellular-automata.pdf",
+    "code20/20250409_112512.jpg",
+    "code20/Pasted image 20250408141358.png",
     "code20/Code20Search.md",
     "splr.md",
     "code20",
