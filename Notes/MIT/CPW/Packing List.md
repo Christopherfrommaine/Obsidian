@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - [x] Pocket Notebook
 - [ ] 
 
@@ -24,3 +25,24 @@
 # Car
 - [ ] Suit
 - [ ] 
+=======
+
+## Backpack
+
+- [ ] Pocket Notebook
+- [ ] Copies of my Book
+- [ ] Laptop + Charger
+- [ ] Battery Bank + Cables
+- [ ] Small Cash
+
+## Luggage
+
+- [ ] Science / Math Shirts
+- [ ] Sleeping Bag, Pillow
+- [ ] Night Clothes
+	- [ ] Shorts
+	- [ ] White T-Shirt
+- [ ] Melatonin
+- [ ] Razor
+- [ ] Shampoo
+>>>>>>> ff24c53 (automatic backup temp)
