@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MIT/CPW/Schedule/Schedule.md",
+                "file": "MIT/Meeting Notes/First Year Information.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schedule"
+              "title": "First Year Information"
             }
           }
         ]
@@ -165,10 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c923a9a93feed72",
+  "active": "c98175d61f858d84",
   "lastOpenFiles": [
-    "MIT/CPW/Schedule/Mass Times.md",
+    "().md",
+    "MIT/Meeting Notes/First Year Information.md",
+    "firstyear.mit.edu.md",
     "MIT/CPW/Schedule/Schedule.md",
+    "MIT/CPW/Schedule/Mass Times.md",
     "MIT/CPW/Packing List.md",
     "MIT/CPW/Schedule/Bus Times.md",
     "MIT/CPW/Schedule/CPW Schedule 1.md",
@@ -194,9 +197,6 @@
     "MIT/Meeting Notes/MIT Meeting Person.md",
     "MIT/CPW Notes.md",
     "MIT/Meeting Notes",
-    "Emails.md",
-    "Gifts.md",
-    "Planning/Things I'd Like to Improve On.md",
     "MIT",
     "Planning/GGT",
     "Planning",
