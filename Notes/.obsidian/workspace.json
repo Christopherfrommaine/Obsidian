@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0295108e709adff0",
+        "id": "0eb6a381a3e98f67",
         "type": "tabs",
         "children": [
           {
-            "id": "27563d09255856ef",
+            "id": "78faba3c7513f51e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cantoring/Maddy Albert Wedding Cantoring.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Maddy Albert Wedding Cantoring"
             }
           }
         ]
@@ -161,8 +165,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c923a9a93feed72",
+  "active": "78faba3c7513f51e",
   "lastOpenFiles": [
+    "Cantoring/breadofangels (1).gif.pdf",
+    "Cantoring.zip",
+    "Cantoring/Hymns_Wedding.pdf",
+    "Cantoring/(1) For The Beauty of the Earth.pdf",
+    "Cantoring/Maddy Albert Wedding Cantoring.md",
+    "Cantoring/MassOfSpiritAndGrace_Wedding.pdf",
+    "Cantoring/ResponsorialPsalmAndGospelAcclamation_Wedding.pdf",
+    "Cantoring/program for maddie wedding.pdf",
+    "Cantoring/MassOfSpiritAndGrace_Wedding2.pdf",
+    "Cantoring/lu1778817yvm.tmp",
+    "Cantoring",
     "Resume.md",
     "Emails.md",
     "Gifts.md",
@@ -187,15 +202,6 @@
     "MIT/Geography.md",
     "MIT/General.md",
     "MIT/Meeting Notes/STARS Block Party Notes.md",
-    "elo.mit.edu.md",
-    "MIT/CPW/Schedule",
-    "MIT/CPW/Event Notes",
-    "MIT/First-Year Learning Community.md",
-    "MIT/CPW",
-    "MIT/Meeting Notes",
-    "MIT",
-    "Planning/GGT",
-    "Planning",
-    "Random thoughts"
+    "MIT/CPW/Schedule"
   ]
 }
