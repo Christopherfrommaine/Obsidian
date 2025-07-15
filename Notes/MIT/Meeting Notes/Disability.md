@@ -17,9 +17,20 @@ Personally, I need to arrange for the following supports:
 - Accommodations
 - What I need to do
 - Info about finding supports
+	- OFFICE HOURS
+	- tutors
 
 # Meeting Notes
 
 TSR2
 Student Support Services
 
+10 clubs reasonableat office hours, saw "No questiojns, but DAS told me to show up"
+
+Request letters at start of each semester. New system: "Accomodate". Generated and sent to profs
+Follow up and ask if profs have recieved letters and say that I will be using accomodations.
+Follow up again before a test
+
+2nd week of sept - tentative meetign
+Wed 10th, 
+5-104
