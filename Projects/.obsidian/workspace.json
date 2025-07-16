@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer Projects.md",
+                "file": "Railcart/Areas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summer Projects"
+              "title": "Areas"
             }
           }
         ]
@@ -162,6 +162,8 @@
   "active": "c9af0b5dd4fa1dd3",
   "lastOpenFiles": [
     "Summer Projects.md",
+    "Railcart/Areas.md",
+    "Railcart",
     "WSRP Project/Untitled.md"
   ]
 }
