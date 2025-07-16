@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Railcart/Areas.md",
+                "file": "Railcart/Call Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Areas"
+              "title": "Call Notes"
             }
           }
         ]
@@ -161,8 +161,9 @@
   },
   "active": "c9af0b5dd4fa1dd3",
   "lastOpenFiles": [
-    "Summer Projects.md",
     "Railcart/Areas.md",
+    "Railcart/Call Notes.md",
+    "Summer Projects.md",
     "Railcart",
     "WSRP Project/Untitled.md"
   ]
