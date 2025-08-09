@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8d2f5514ee49c77e",
+        "id": "166e1382649de089",
         "type": "tabs",
         "children": [
           {
-            "id": "2e6170eef304be48",
+            "id": "c9af0b5dd4fa1dd3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "Railcart/Call Notes.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
-          },
-          {
-            "id": "fb89acdf4007ffe2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Call Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -88,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d18461410837fd04",
@@ -169,6 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb89acdf4007ffe2",
-  "lastOpenFiles": []
+  "active": "c9af0b5dd4fa1dd3",
+  "lastOpenFiles": [
+    "Railcart/Areas.md",
+    "Railcart/Call Notes.md",
+    "Summer Projects.md",
+    "Railcart",
+    "WSRP Project/Untitled.md"
+  ]
 }
