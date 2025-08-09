@@ -12,3 +12,7 @@ Changes not staged for commit:
 	modified:   log.txt
 
 no changes added to commit (use "git add" and/or "git commit -a")
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Christopherfrommaine/Obsidian.git        
+To https://github.com/christopherfrommaine/Obsidian.git
+   b1d8bc7..76fac21  main -> main
