@@ -1,3 +1,0 @@
-Mozerella
-Sugar
-Water
