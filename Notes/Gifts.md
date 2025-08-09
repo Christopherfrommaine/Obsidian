@@ -6,7 +6,7 @@ Drip coffee maker
 ## Christmas
 #### Good
 - [x] New Laptop
-- [ ] Mint plant
+- [x] Mint plant
 - [ ] 
 
 #### Possible
@@ -17,3 +17,5 @@ Drip coffee maker
 
 ## Birthday
 - [ ] Good Backpack (maybe )
+- [ ] Dixie cups
+- [ ] 

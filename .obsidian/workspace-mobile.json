@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-14-25.md",
+                "file": "Notes/Groceries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5-14-25"
+              "title": "Groceries"
             }
           }
         ],
@@ -189,11 +189,23 @@
   },
   "active": "286a7d67d4352879",
   "lastOpenFiles": [
+    "Notes/Packing.md",
+    "Notes/Groceries.md",
+    "Notes/MIT/General.md",
+    "Notes/MIT/First-Year Learning Community.md",
+    "Notes/MIT/Classes.md",
+    "Programming/code20/computation-theory-cellular-automata.pdf",
+    "Notes/Untitled.md",
+    "Notes/Untitled 1.md",
+    "Notes/Gifts.md",
+    "Notes/College Packing.md",
+    "Notes/Mass Music.md",
+    "Gym/5-19-25.md",
+    "Gym/Untitled",
+    "Gym/5-14-25.md",
     "Gym/5-13-25.md",
-    "5-14-25.md",
     "Notes/MIT/CPW/Schedule/Bus Times.md",
     "Notes/MIT/CPW/Packing List.md",
-    "Notes/Untitled 1.md",
     "Notes/Random thoughts/Untitled.md",
     "Untitled 1.md",
     "School/Classes/AP E&M/Practice/2012 Practice Test.md",
@@ -210,24 +222,12 @@
     "School/Applications/Mass Scholarship Applications/General Notes.md",
     "School/Applications/Mass Scholarship Applications",
     "Programming/splr.md",
-    "Programming/code20/computation-theory-cellular-automata.pdf",
     "Programming/code20/Pasted image 20250408141358.png",
     "Programming/code20/Notes on Wolfram Paper.md",
     "Programming/code20/Code20Search.md",
     "Programming/code20/20250409_112512.jpg",
     "Programming/code20",
     "Programming/Speed Calculation.md",
-    "Notes/Resume.md",
-    "Notes/Random thoughts/Poems/On High.md",
-    "Notes/Planning/GGT/Order.md",
-    "Notes/Planning/Things I'd Like to Improve On.md",
-    "Notes/Planning/GGT",
-    "Notes/MIT/CPW/Schedule/Schedule.md",
-    "Notes/MIT/CPW/Schedule/Mass Times.md",
-    "Notes/MIT/CPW/Schedule/CPW Schedule 1.md",
-    "Notes/MIT/Meeting Notes/STARS Block Party Notes.md",
-    "Notes/MIT/Meeting Notes/Online Meeting Notes.md",
-    "Notes/MIT/Meeting Notes/MIT Meeting Person.md",
-    "Notes/MIT/Geography.md"
+    "Notes/Resume.md"
   ]
 }

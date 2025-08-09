@@ -1,0 +1,14 @@
+- Optional Prelude  
+- Processional (aka introit): Enterance Antiphon or Hymn
+- Kyrie
+- Gloria
+- Responsorial Psalm (aka Gradual): In the liturgy 
+- Gospel Acclimation: Aleluia
+- Offertory
+- Sanctus
+- Mysterium Fidei
+- Agnus Dei
+- Optional Communion Antiphon
+- Communion
+- Exiting hymn??? 
+- Optional Postlude
