@@ -16,3 +16,12 @@ remote: This repository moved. Please use the new location:
 remote:   https://github.com/Christopherfrommaine/Obsidian.git        
 To https://github.com/christopherfrommaine/Obsidian.git
    b1d8bc7..76fac21  main -> main
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Christopherfrommaine/Obsidian.git        
+To https://github.com/christopherfrommaine/Obsidian.git
+   76fac21..9bb99f1  main -> main
+/sdcard/Documents/Programming/obsidian-backup.sh[7]: git: inaccessible or not found
+/sdcard/Documents/Programming/obsidian-backup.sh[8]: git: inaccessible or not found
+/sdcard/Documents/Programming/obsidian-backup.sh[9]: git: inaccessible or not found
+/sdcard/Documents/Programming/obsidian-backup.sh[10]: git: inaccessible or not found
+/sdcard/Documents/Programming/obsidian-backup.sh[11]: git: inaccessible or not found
